@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="database_management_system"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="database_management_system">
+				<Option output="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/database_management_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 database_management_system"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="database_management_system/fast">
+				<Option output="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/database_management_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 database_management_system/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/API/API.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/API/API.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/BufferManager/BufferManager.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/BufferManager/BufferManager.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/CatalogManager/CatalogManager.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/CatalogManager/CatalogManager.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/IndexManager/IndexManager.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/IndexManager/IndexManager.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/InterpreterManager/InterpreterManager.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/InterpreterManager/InterpreterManager.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/InterpreterManager/Parser.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/InterpreterManager/Parser.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Query.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Query.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Record.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Record.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/RecordManager/RecordManager.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/RecordManager/RecordManager.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Utility/utils.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/Utility/utils.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/base_element.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/base_element.h">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/main.cpp">
+			<Option target="database_management_system"/>
+		</Unit>
+		<Unit filename="/Users/haotianxue/Desktop/haotianxue/Georgetown/COSC-580/project/database_management_system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
